@@ -1,2 +1,1 @@
-# Prep-curse-henry
-este es un repositorio de prueva
+este es un proyecto de prueva para clonarlo a mi escritorio.
